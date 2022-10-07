@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center"> Hey, I'm Jen | Security enthusiast & FOSS Advocate </h3>
-<div id="contact"> 
-<img align="center" width=20px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" />
-<img align="center" width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" /></div>
+<div id="contact" align="center"> 
+<img width=20px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" />
+<img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" /></div>
 <hr>
 
 - 😄 Pronouns: She/Her 
