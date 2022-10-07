@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center"> Hey, I'm Jen</h1>
 <h3 align="center">Security enthusiast & FOSS Advocate</h3>
 
+### Spotify Playing 🎧
+![Spotify](https://frinjee-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/_jenh)
+
 </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
