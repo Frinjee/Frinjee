@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img width=15px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" /><img width=15px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" />
 </div>
 <br>
-### Spotify Now Playing 🎧
+<h3 align="left"> Spotify Now Playing 🎧</h3>
 <br> [![Spotify](https://frinjee.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/frinjee)
 ### Languages and Tools:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
