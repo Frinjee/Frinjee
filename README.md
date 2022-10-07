@@ -2,7 +2,9 @@
 
 <!--
 **Frinjee/Frinjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h4 align="left"> Spotify Now Playing 🎧</h4>
+<br> [![Spotify](https://frinjee.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/frinjee)
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,9 +23,7 @@ Here are some ideas to get you started:
   <img width=15px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" /><img width=15px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" />
 </div>
 <br>
-<h4 align="left"> Spotify Now Playing 🎧</h4>
-<br> [![Spotify](https://frinjee.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/frinjee)
-<br>
+
 <h4 align="left"> Languages and Tools: </h4>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/>
