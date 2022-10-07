@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <ul>
     <li>😄 Pronouns: She/Her</li>
     <li>🌱 I’m currently learning: x86-64 assembly</li>
-    <li>🔭 I’m currently working on: #100daysofcodingchallenge with a focus on improving my C skills</li>
     <li>💬 Ask me about: Video game lore!</li>
   </ul>
 </div>
