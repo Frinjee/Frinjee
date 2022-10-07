@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 [![Spotify](https://frinjee-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/_jenh)
 -->
 
-<h3 align="center"> Hey, I'm Jen | Security enthusiast & FOSS Advocate </h3>
+<h3 align="center"> Hey, I'm Jen </h3>
+<h4 align="center"> Security enthusiast & FOSS Advocate </h4>
 <hr>
 <h4 align="center"> 😄 Pronouns: She/Her | 🌱 I’m currently learning: x86-64 assembly | 💬 Ask me about: Video game lore!</h4>
 <div id="contact" align="center">
