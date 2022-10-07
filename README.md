@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![Spotify](https://frinjee-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/_jenh)
 -->
 
-<h3 align="center"> Hey, I'm Jen </h3>
-<h4 align="center"> Security enthusiast & FOSS Advocate </h4>
-<h4 align="center"> 😄 Pronouns: She/Her | 🌱 I’m currently learning: x86-64 assembly | 💬 Ask me about: Video game lore!</h4>
-<div id="contact" align="center">
+<h3 align="left"> Hey, I'm Jen </h3>
+<h4 align="left"> Security enthusiast & FOSS Advocate </h4>
+<h4 align="left"> 😄 Pronouns: She/Her | 🌱 I’m currently learning: x86-64 assembly | 💬 Ask me about: Video game lore!</h4>
+<div id="contact" align="left">
   <img width=20px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" />
   <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" />
 </div>
