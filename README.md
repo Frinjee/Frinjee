@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Hey, I'm Jen </h3>
 <h4 align="center"> Security enthusiast & FOSS Advocate </h4>
-<hr>
 <h4 align="center"> 😄 Pronouns: She/Her | 🌱 I’m currently learning: x86-64 assembly | 💬 Ask me about: Video game lore!</h4>
 <div id="contact" align="center">
   <img width=20px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" />
