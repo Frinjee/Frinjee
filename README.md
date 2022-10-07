@@ -24,10 +24,12 @@ Here are some ideas to get you started:
   <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" /></div>
   <hr>
 <div id="info" align="center">
-- 😄 Pronouns: She/Her 
-- 🌱 I’m currently learning: x86-64 assembly
-- 🔭 I’m currently working on: #100daysofcodingchallenge with a focus on improving my C skills
-- 💬 Ask me about: Video game lore!
+  <ul>
+    <li>😄 Pronouns: She/Her</li>
+    <li>🌱 I’m currently learning: x86-64 assembly</li>
+    <li>🔭 I’m currently working on: #100daysofcodingchallenge with a focus on improving my C skills</li>
+    <li>💬 Ask me about: Video game lore!</li>
+  </ul>
 </div>
 <br>
 
