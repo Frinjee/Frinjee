@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 #### Spotify Playing 🎧
 [![Spotify](https://frinjee-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/_jenh)
 -->
-<div id="contact" align="left">
-  <h3> Hey, I'm Jen </h3><img width=15px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" /><img width=15px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" />
-</div>
 <div id="intro" align="left">
   <h4> Security enthusiast & FOSS Advocate </h4>
   <h4> Pronouns: She/Her | I’m currently learning: x86-64 assembly | Ask me about: Video game lore!</h4>
+  <h3> Hey, I'm Jen </h3><img width=15px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" /><img width=15px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" />
 </div>
 <br>
 
