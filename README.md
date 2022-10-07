@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/jeniferdhammond" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="https://t.me/frinjee" height="30" width="30" />
 
+<br><hr>
 
 #### Languages and Tools:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
