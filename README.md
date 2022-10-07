@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 #### Spotify Playing 🎧
+
 [![Spotify](https://frinjee.vercel.app/api/spotify)](https://open.spotify.com/user/_jenh)
 -->
 <div id="intro" align="left">
@@ -25,8 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 #### Spotify Playing 🎧
-[![Spotify](https://frinjee.vercel.app/api/spotify)](https://open.spotify.com/user/_jenh)
-<br>
+<br> [![Spotify](https://frinjee.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/frinjee)
 ### Languages and Tools:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30"/>
