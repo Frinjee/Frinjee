@@ -21,10 +21,9 @@ me.say_hi()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeniferdhammond" height="30" width="40" /></a>
-<a href="https://discord.gg/frinjee#9834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frinjee#9834" height="30" width="40" /></a>
-<a href="https://discord.gg/frinjee#9834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frinjee#9834" height="30" width="40" /></a>
-<a href="https://t.me/frinje" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="telegram" height="30" width="40"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeniferdhammond" height="30" width="30" /></a>
+<a href="https://discord.gg/frinjee#9834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frinjee#9834" height="30" width="30" /></a>
+<a href="https://t.me/frinje" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="telegram" height="30" width="30"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
