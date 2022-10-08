@@ -24,7 +24,7 @@ me.say_hi()
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeniferdhammond" height="30" width="40" /></a>
 <a href="https://discord.gg/frinjee#9834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frinjee#9834" height="30" width="40" /></a>
 <a href="https://discord.gg/frinjee#9834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="frinjee#9834" height="30" width="40" /></a>
-<a href="https://t.me/frinje" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="telegram" />
+<a href="https://t.me/frinje" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="telegram" height="30" width="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
