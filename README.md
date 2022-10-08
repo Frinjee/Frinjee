@@ -8,7 +8,7 @@ class Frinjee:
     def __init__(self):
         self.name = "Jen"
         self.role = "Security Enthusiant && FOSS Advocate"
-        self.language_spoken = ["zh_IT", "en_US"]
+        self.language_spoken = ["it_IT", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
