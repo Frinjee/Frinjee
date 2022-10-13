@@ -23,7 +23,7 @@ me.say_hi()
 <h5 align="left">   
     <a href="https://t.me/frinjee" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="telegram"/>
     <a href="https://situla.bitbit.net/filebin/184b8fc96186da27a7ab970e3e51f9d1cd0987daacfbd267b8ac7ca1dcb2447d     /1f3c2d8e88fff319bf660d9eac4a24628dce89dec71f4e80af4f7f393e8d3684?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=HZXB1J7T0UN34UN512IW%2F20221013%2Fus-   east-1%2Fs3%2Faws4_request&X-Amz-Date=20221013T002356Z&X-Amz-Expires=30&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D30&response-content-disposition=filename%3D%220xD07924B7-pub.asc%22&response-content-type=text%2Fplain%3B%20charset%3Dutf-8&X-Amz-Signature=0ef8507a841eb89299e75cd36deac80ea940b7220da4860990bb7cbd94761bfd" target="blank"><img align="center" src="https://img.shields.io/badge/PGP-Keybase-%2333A0FF"     alt="pubpgp"/></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jeniferdhammond"/></a> 
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jeniferdhammond" height=40px width=40px/></a> 
 </h5>
 
 
