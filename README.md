@@ -24,6 +24,7 @@ me.say_hi()
     <a href="https://t.me/frinjee" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" alt="telegram"/>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeniferdhammond" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
 </h5>
+[![Gitter](https://badges.gitter.im/flatiron-community-room/community.svg)](https://gitter.im/flatiron-community-room/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
 <h3 align="left">Languages and Tools:</h3>
